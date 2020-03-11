@@ -1,0 +1,34 @@
+c:\users\boyko_ia\documents\visual studio 2012\Projects\Gmap_Markers\Gmap_Markers\bin\Debug\Gmap_Markers.exe
+c:\users\boyko_ia\documents\visual studio 2012\Projects\Gmap_Markers\Gmap_Markers\bin\Debug\Gmap_Markers.pdb
+c:\users\boyko_ia\documents\visual studio 2012\Projects\Gmap_Markers\Gmap_Markers\bin\Debug\GMap.NET.Core.dll
+c:\users\boyko_ia\documents\visual studio 2012\Projects\Gmap_Markers\Gmap_Markers\bin\Debug\GMap.NET.WindowsForms.dll
+c:\users\boyko_ia\documents\visual studio 2012\Projects\Gmap_Markers\Gmap_Markers\bin\Debug\GMap.NET.Core.xml
+c:\users\boyko_ia\documents\visual studio 2012\Projects\Gmap_Markers\Gmap_Markers\bin\Debug\GMap.NET.WindowsForms.xml
+c:\users\boyko_ia\documents\visual studio 2012\Projects\Gmap_Markers\Gmap_Markers\obj\Debug\Gmap_Markers.csprojResolveAssemblyReference.cache
+c:\users\boyko_ia\documents\visual studio 2012\Projects\Gmap_Markers\Gmap_Markers\obj\Debug\Gmap_Markers.Form1.resources
+c:\users\boyko_ia\documents\visual studio 2012\Projects\Gmap_Markers\Gmap_Markers\obj\Debug\Gmap_Markers.Properties.Resources.resources
+c:\users\boyko_ia\documents\visual studio 2012\Projects\Gmap_Markers\Gmap_Markers\obj\Debug\Gmap_Markers.csproj.GenerateResource.Cache
+c:\users\boyko_ia\documents\visual studio 2012\Projects\Gmap_Markers\Gmap_Markers\obj\Debug\Gmap_Markers.exe
+c:\users\boyko_ia\documents\visual studio 2012\Projects\Gmap_Markers\Gmap_Markers\obj\Debug\Gmap_Markers.pdb
+C:\Users\Александр\Desktop\Gmap_Markers\Gmap_Markers\bin\Debug\Gmap_Markers.exe
+C:\Users\Александр\Desktop\Gmap_Markers\Gmap_Markers\bin\Debug\Gmap_Markers.pdb
+C:\Users\Александр\Desktop\Gmap_Markers\Gmap_Markers\bin\Debug\GMap.NET.Core.xml
+C:\Users\Александр\Desktop\Gmap_Markers\Gmap_Markers\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\Александр\Desktop\Gmap_Markers\Gmap_Markers\obj\Debug\Gmap_Markers.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\Gmap_Markers\Gmap_Markers\obj\Debug\Gmap_Markers.Form1.resources
+C:\Users\Александр\Desktop\Gmap_Markers\Gmap_Markers\obj\Debug\Gmap_Markers.Properties.Resources.resources
+C:\Users\Александр\Desktop\Gmap_Markers\Gmap_Markers\obj\Debug\Gmap_Markers.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\Gmap_Markers\Gmap_Markers\obj\Debug\Gmap_Markers.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Gmap_Markers\Gmap_Markers\obj\Debug\Gmap_Markers.csproj.CopyComplete
+C:\Users\Александр\Desktop\Gmap_Markers\Gmap_Markers\obj\Debug\Gmap_Markers.exe
+C:\Users\Александр\Desktop\Gmap_Markers\Gmap_Markers\obj\Debug\Gmap_Markers.pdb
+C:\Users\PC\Desktop\Gmap_Markers\Gmap_Markers\bin\Debug\Gmap_Markers.exe
+C:\Users\PC\Desktop\Gmap_Markers\Gmap_Markers\bin\Debug\Gmap_Markers.pdb
+C:\Users\PC\Desktop\Gmap_Markers\Gmap_Markers\obj\Debug\Gmap_Markers.Form1.resources
+C:\Users\PC\Desktop\Gmap_Markers\Gmap_Markers\obj\Debug\Gmap_Markers.Properties.Resources.resources
+C:\Users\PC\Desktop\Gmap_Markers\Gmap_Markers\obj\Debug\Gmap_Markers.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Gmap_Markers\Gmap_Markers\obj\Debug\Gmap_Markers.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Gmap_Markers\Gmap_Markers\obj\Debug\Gmap_Markers.csproj.CopyComplete
+C:\Users\PC\Desktop\Gmap_Markers\Gmap_Markers\obj\Debug\Gmap_Markers.exe
+C:\Users\PC\Desktop\Gmap_Markers\Gmap_Markers\obj\Debug\Gmap_Markers.pdb
+C:\Users\PC\Desktop\Gmap_Markers\Gmap_Markers\obj\Debug\Gmap_Markers.csprojAssemblyReference.cache

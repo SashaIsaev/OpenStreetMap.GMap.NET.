@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<places>
+		<place name="Больница">
+			<X>47,2105634</X>
+			<Y>38,9431123</Y>
+			<description>Мы вам вправим, куда что надо</description>
+		</place>
+		
+		<place name="МакДональдс">
+			<X>47,2177166</X>
+			<Y>38,8987217</Y>
+			<description>Мы вас накормим вкусно</description>
+		</place>
+		
+		<place name="Магнит">
+			<X>47,235112</X>
+			<Y>38,901474</Y>
+			<description>У нас можно купить еды</description>
+		</place>
+</places>

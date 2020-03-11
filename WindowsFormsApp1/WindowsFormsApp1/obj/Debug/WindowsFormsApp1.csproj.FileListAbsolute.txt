@@ -1,0 +1,41 @@
+C:\Users\PC\Desktop\Лето 2018\OSM\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\Desktop\Лето 2018\OSM\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\Лето 2018\OSM\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\Лето 2018\OSM\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\GMap.NET.Core.dll
+C:\Users\PC\Desktop\Лето 2018\OSM\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\PC\Desktop\Лето 2018\OSM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Лето 2018\OSM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\PC\Desktop\Лето 2018\OSM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Desktop\Лето 2018\OSM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Лето 2018\OSM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Лето 2018\OSM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\PC\Desktop\Лето 2018\OSM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\Лето 2018\OSM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\Проекты\OSM\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\Desktop\Проекты\OSM\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\Проекты\OSM\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\Проекты\OSM\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\GMap.NET.Core.dll
+C:\Users\PC\Desktop\Проекты\OSM\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\PC\Desktop\Проекты\OSM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Desktop\Проекты\OSM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Проекты\OSM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Проекты\OSM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\PC\Desktop\Проекты\OSM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\Проекты\OSM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\Проекты\OSM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Map.resources
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\GMap.NET.Core.dll
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Map.resources
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\Проекты\OSM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Panorama.resources
+C:\Users\PC\Desktop\Проекты\OSM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Marshruts.resources
+C:\Users\PC\Desktop\Проекты\OSM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
